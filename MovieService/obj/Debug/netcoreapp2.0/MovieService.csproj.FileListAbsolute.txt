@@ -1,0 +1,36 @@
+C:\Tech\MovieService\CodingTestCBA_MovieService\bin\Debug\netcoreapp2.0\MovieService.deps.json
+C:\Tech\MovieService\CodingTestCBA_MovieService\bin\Debug\netcoreapp2.0\MovieService.runtimeconfig.json
+C:\Tech\MovieService\CodingTestCBA_MovieService\bin\Debug\netcoreapp2.0\MovieService.runtimeconfig.dev.json
+C:\Tech\MovieService\CodingTestCBA_MovieService\bin\Debug\netcoreapp2.0\MovieService.dll
+C:\Tech\MovieService\CodingTestCBA_MovieService\bin\Debug\netcoreapp2.0\MovieService.pdb
+C:\Tech\MovieService\CodingTestCBA_MovieService\bin\Debug\netcoreapp2.0\MoviesLibrary.dll
+C:\Tech\MovieService\CodingTestCBA_MovieService\obj\Debug\netcoreapp2.0\MovieService.csprojResolveAssemblyReference.cache
+C:\Tech\MovieService\CodingTestCBA_MovieService\obj\Debug\netcoreapp2.0\MovieService.csproj.CoreCompileInputs.cache
+C:\Tech\MovieService\CodingTestCBA_MovieService\obj\Debug\netcoreapp2.0\MovieService.AssemblyInfoInputs.cache
+C:\Tech\MovieService\CodingTestCBA_MovieService\obj\Debug\netcoreapp2.0\MovieService.AssemblyInfo.cs
+C:\Tech\MovieService\CodingTestCBA_MovieService\obj\Debug\netcoreapp2.0\MovieService.dll
+C:\Tech\MovieService\CodingTestCBA_MovieService\obj\Debug\netcoreapp2.0\MovieService.pdb
+C:\Tech\MovieService\MovieService\bin\Debug\netcoreapp2.0\MovieService.deps.json
+C:\Tech\MovieService\MovieService\bin\Debug\netcoreapp2.0\MovieService.runtimeconfig.json
+C:\Tech\MovieService\MovieService\bin\Debug\netcoreapp2.0\MovieService.runtimeconfig.dev.json
+C:\Tech\MovieService\MovieService\bin\Debug\netcoreapp2.0\MovieService.dll
+C:\Tech\MovieService\MovieService\bin\Debug\netcoreapp2.0\MovieService.pdb
+C:\Tech\MovieService\MovieService\bin\Debug\netcoreapp2.0\MoviesLibrary.dll
+C:\Tech\MovieService\MovieService\obj\Debug\netcoreapp2.0\MovieService.csprojResolveAssemblyReference.cache
+C:\Tech\MovieService\MovieService\obj\Debug\netcoreapp2.0\MovieService.csproj.CoreCompileInputs.cache
+C:\Tech\MovieService\MovieService\obj\Debug\netcoreapp2.0\MovieService.AssemblyInfoInputs.cache
+C:\Tech\MovieService\MovieService\obj\Debug\netcoreapp2.0\MovieService.AssemblyInfo.cs
+C:\Tech\MovieService\MovieService\obj\Debug\netcoreapp2.0\MovieService.dll
+C:\Tech\MovieService\MovieService\obj\Debug\netcoreapp2.0\MovieService.pdb
+D:\My Folder\Job Related\Technical Test\Precision - CBA\MovieService\MovieService\obj\Debug\netcoreapp2.0\MovieService.csproj.CoreCompileInputs.cache
+D:\My Folder\Job Related\Technical Test\Precision - CBA\MovieService\MovieService\obj\Debug\netcoreapp2.0\MovieService.AssemblyInfoInputs.cache
+D:\My Folder\Job Related\Technical Test\Precision - CBA\MovieService\MovieService\obj\Debug\netcoreapp2.0\MovieService.AssemblyInfo.cs
+D:\My Folder\Job Related\Technical Test\Precision - CBA\MovieService\MovieService\bin\Debug\netcoreapp2.0\MovieService.deps.json
+D:\My Folder\Job Related\Technical Test\Precision - CBA\MovieService\MovieService\bin\Debug\netcoreapp2.0\MovieService.runtimeconfig.json
+D:\My Folder\Job Related\Technical Test\Precision - CBA\MovieService\MovieService\bin\Debug\netcoreapp2.0\MovieService.runtimeconfig.dev.json
+D:\My Folder\Job Related\Technical Test\Precision - CBA\MovieService\MovieService\bin\Debug\netcoreapp2.0\MovieService.dll
+D:\My Folder\Job Related\Technical Test\Precision - CBA\MovieService\MovieService\bin\Debug\netcoreapp2.0\MovieService.pdb
+D:\My Folder\Job Related\Technical Test\Precision - CBA\MovieService\MovieService\bin\Debug\netcoreapp2.0\MoviesLibrary.dll
+D:\My Folder\Job Related\Technical Test\Precision - CBA\MovieService\MovieService\obj\Debug\netcoreapp2.0\MovieService.dll
+D:\My Folder\Job Related\Technical Test\Precision - CBA\MovieService\MovieService\obj\Debug\netcoreapp2.0\MovieService.pdb
+D:\My Folder\Job Related\Technical Test\Precision - CBA\MovieService\MovieService\obj\Debug\netcoreapp2.0\MovieService.csprojResolveAssemblyReference.cache

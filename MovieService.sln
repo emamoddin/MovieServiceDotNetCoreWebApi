@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MovieService", "MovieService\MovieService.csproj", "{3F78AF07-3A46-427F-8F1B-7E19647556B1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C3508A6B-EF39-4766-A9AB-7105F7E51622}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F78AF07-3A46-427F-8F1B-7E19647556B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F78AF07-3A46-427F-8F1B-7E19647556B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F78AF07-3A46-427F-8F1B-7E19647556B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F78AF07-3A46-427F-8F1B-7E19647556B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {490B7CA5-2B1B-4A50-A60E-4914C5ADDDE1}
+	EndGlobalSection
+EndGlobal
