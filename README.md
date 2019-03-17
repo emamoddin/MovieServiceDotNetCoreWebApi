@@ -1,5 +1,5 @@
-#This is movie service application which will cater for movie browse, add new movie and update existing move#
-#Build on asp.net core 2.0 web api
+#This is movie service which will cater for movie browse, add new movie and update existing move#
+#Build on asp.net core 2.0 as web api
 #For smooth build use Visual Studio 2017
 endpoint "/Movies" 
 
